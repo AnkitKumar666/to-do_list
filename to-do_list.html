@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="to-do_list.css">
+    <title>To-Do-List</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="todo-app">
+            <div class="header">
+                <h2>To-Do List</h2>
+                <div class="search-bar">
+                    <input type="text" id="search-box" placeholder="Search tasks...">
+                </div>
+            </div>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add task here...">
+                <button onclick="addTask()">Add</button>
+            </div>
+            <ul id="list-container">
+                <!-- Tasks will be added here -->
+            </ul>
+        </div>
+    </div>
+
+    <div class="edit-popup" id="edit-popup">
+        <input type="text" id="edit-input">
+        <button onclick="saveEdit()">Save</button>
+    </div>
+
+    <script src="to-do_list.js"></script>
+
+</body>
+
+</html>
