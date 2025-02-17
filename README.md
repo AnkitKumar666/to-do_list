@@ -19,9 +19,9 @@ A simple To-Do List application built using HTML, CSS, and JavaScript. This proj
 ## How to Run
 
 1. Clone the repository:
-   ```sh
-   https://github.com/AnkitKumar666/to-do_list
-   ```
+```sh
+https://github.com/AnkitKumar666/to-do_list
+```
 
 2. Open in Browser
 ```sh
