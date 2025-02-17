@@ -10,11 +10,13 @@ A simple To-Do List application built using HTML, CSS, and JavaScript. This proj
 - Delete tasks
 - Responsive design
 
-## Technologies Used
+## Live Demo
 
-- HTML
-- CSS
-- JavaScript
+[To-Do List](https://ankitkumar666.github.io/to-do_list/)
+
+## Repository
+
+[GitHub Repository](https://github.com/AnkitKumar666/to-do_list)
 
 ## How to Run
 
